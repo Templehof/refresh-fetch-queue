@@ -1,6 +1,6 @@
 {
   "name": "refresh-fetch-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A concurrency-safe fetch interceptor for handling JWT token refresh, request queuing, and retries.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -38,7 +38,7 @@
     "url": "git+https://github.com/Templehof/refresh-fetch-queue.git"
   },
   "bugs": {
-    "url": "https://github.com/Templehof/refresh-fetch-queue.git/issues"
+    "url": "https://github.com/Templehof/refresh-fetch-queue/issues"
   },
-  "homepage": "https://github.com/Templehof/refresh-fetch-queue.git#readme"
+  "homepage": "https://github.com/Templehof/refresh-fetch-queue#readme"
 }
